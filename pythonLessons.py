@@ -7,3 +7,6 @@ for price in range(10):
         socks = socks + 1
     else:
         break
+
+print("I have", wallet, "dollars")
+print("and", socks, "socks")
