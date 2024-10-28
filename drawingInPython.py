@@ -35,4 +35,16 @@ right(45)
 forward(100)
 hideturtle()
 
+# letter C
+width(10)
+color("pink")
+left(180)
+forward(50)
+left(45)
+forward(50)
+left(45)
+forward(50)
+left(45)
+forward(50)
+
 bye()
