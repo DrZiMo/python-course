@@ -47,4 +47,13 @@ forward(50)
 left(45)
 forward(50)
 
+# FILL COLOR
+color("red", "yellow")
+
+begin_fill()
+for i in range(5):  # drawing a star
+    right(180 - 36)
+    forward(200)
+end_fill()
+
 bye()
